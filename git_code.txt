@@ -1,0 +1,15 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kamruzzamankajol1993/store_management_ific.git
+git push -u origin main
+git pull
+
+===========
+
+git config --global user.name "kamruzzamankajol1993"
+git config --global user.email "kamruzzamankajol.cse@gmail.com"
+
+git config --list
+git add .
