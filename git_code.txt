@@ -24,4 +24,8 @@ to delete a branch:git branch -d branch_name
 to create and go to new branch : git checkout -b "branch_name"
 
 git push -u origin feature_one
-=====================
+
+=============================
+=============================
+
+
